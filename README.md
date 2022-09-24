@@ -22,8 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## MY STATS!📊
-
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayvadolkar&theme=radical&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayvadolkar)](https://github.com/jayvadolkar/github-readme-stats)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayvadolkar&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
