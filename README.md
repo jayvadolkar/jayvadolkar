@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jayvadolkar
-- 👀 I’m interested in Computer Science, Mathematics and Teaching
-- 🌱 I’m currently learning Computer Science with spl. in Gaming Technology
-- 📫 Contact me on linkedin - https://www.linkedin.com/in/jayvadolkar/
+### Hi 👋, I’m 
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Jay+Prabhu+Vadolkar;Developer+%7C+educator" alt="Typing SVG" /></a>
+ </h3>
 
 <!---
 jayvadolkar/jayvadolkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
