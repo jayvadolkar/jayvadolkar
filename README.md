@@ -2,10 +2,18 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Jay+Prabhu+Vadolkar;Developer+%7C+educator" alt="Typing SVG" /></a>
  </h3>
 
-<!---
-jayvadolkar/jayvadolkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3>🔎 About me :</h3>
+- 🏫 I'm currently studying in Vellore Institute of Technology
+- 🌱 I'm currently learning **Flutter & dart, AIM & ML**\
+- 💬 Ask me about **[My Youtube Channel](https://www/youtube.com/c/jayvadolkar)**
+- ❤️ I love Chichen Biryani and Beaches🏖️
+- ⚡ Fun Fact: Recent studies show that around 70% of coding jobs have nothing to do with technology at all.
+
+<h3>✉️  Connect with Me</h3>
+<p>
+ <a href="https://t.me/jayvadolkar69" ><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="jayvadolkar69" height="40" width="40"/></a>
+ <a href="https://www.linkedin.com/in/jayvadolkar" ><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="hud0shnik" height="40" width="40"/></a> 
+</p>
 
 
 ## 🛠 TECH & TOOLS:
