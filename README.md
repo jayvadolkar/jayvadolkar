@@ -46,12 +46,22 @@
   <img src="https://img.icons8.com/color/344/google-ads.png" alt="google_ads" width="40" height="40"/>
 </p>
 
+
+
 <img alt="Jayvadolkar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayvadolkar&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="250px"/>
 
 <h3>🔥 Statistics :</h3>
 <img alt="Jayvadolkar's streak" src="http://github-readme-streak-stats.herokuapp.com?user=jayvadolkar&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
 <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=jayvadolkar&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
 <img alt="Jayvadolkar's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jayvadolkar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
+
+   <h3>🕗 WakaTime </h3>
+   
+   Total time coded since May 9 2022
+   </br> 
+   
+   <a href="https://wakatime.com/@76eff183-71c7-4ea1-b0ab-87b8199dbc0c"><img src="https://wakatime.com/badge/user/76eff183-71c7-4ea1-b0ab-87b8199dbc0c.svg?style=for-the-badge" alt="Total time coded since Sep 25 2022" /></a>
+   
 
 
 <details>
@@ -60,15 +70,8 @@
    <img alt="Jayvadolkar's Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jayvadolkar&bg_color=1F222E&color=68C3D4&line=568EA3&point=FFE8D1&hide_border=true" width="100%"/>
 </details>
 
-<details>
-   <summary>🕗 WakaTime </summary>
-   </br>
-   Total time coded since May 9 2022
-   </br> 
-   
-   <a href="https://wakatime.com/@76eff183-71c7-4ea1-b0ab-87b8199dbc0c"><img src="https://wakatime.com/badge/user/76eff183-71c7-4ea1-b0ab-87b8199dbc0c.svg?style=for-the-badge" alt="Total time coded since Sep 25 2022" /></a>
-   </br></br>
-</details>
+
+
 <details>
    <summary> 🦾 Profile-3d-contrib </summary>
    <br/>
