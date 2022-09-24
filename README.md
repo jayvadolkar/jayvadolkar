@@ -3,8 +3,9 @@
  </h3>
 
 <h3>🔎 About me :</h3>
+
 - 🏫 I'm currently studying in Vellore Institute of Technology
-- 🌱 I'm currently learning **Flutter & dart, AIM & ML**\
+- 🌱 I'm currently learning **Flutter & dart, AIM & ML**
 - 💬 Ask me about **[My Youtube Channel](https://www/youtube.com/c/jayvadolkar)**
 - ❤️ I love Chichen Biryani and Beaches🏖️
 - ⚡ Fun Fact: Recent studies show that around 70% of coding jobs have nothing to do with technology at all.
@@ -16,17 +17,96 @@
 </p>
 
 
-## 🛠 TECH & TOOLS:
+<h3>🛠 Languages and Tools :</h3>
+<p>
+  <!-- VS Code-->
+  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/>
+    
+  <!-- Flutter -->
+  <img src="https://img.icons8.com/fluency/344/flutter.png"  alt="Flutter" width="40" height="40"/>
+    
+  <!-- Dart-->
+  <img src="https://img.icons8.com/color/344/dart.png" alt="Dart" width="40" height="40"/>
+   
+  <!-- Android Studio-->
+  <img src="https://img.icons8.com/color/344/android-studio--v2.png" alt="Android Studio" width="40" height="40"/>
+    
+  <!-- python -->
+  <img src="https://img.icons8.com/color/344/python--v1.png" alt="Python" width="40" height="40"/>
+  
+  <!--Git-->
+  <img src="https://img.icons8.com/color/344/git.png" alt="Git" width="40" height="40"/>
+    
+  <!--html-->
+  <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML5" width="40" height="40"/>
+    
+  <!--css-->
+  <img src="https://img.icons8.com/color/344/css3.png" alt="CSS3" width="40" height="40"/>
+    
+  <img src="https://img.icons8.com/color/344/google-ads.png" alt="google_ads" width="40" height="40"/>
+</p>
+
+<img alt="Jayvadolkar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayvadolkar&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="250px"/>
+
+<h3>🔥 Statistics :</h3>
+<img alt="Jayvadolkar's streak" src="http://github-readme-streak-stats.herokuapp.com?user=jayvadolkar&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
+<img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=jayvadolkar&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
+<img alt="Jayvadolkar's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jayvadolkar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<details>
+   <summary> 📈 Contribution Graph </summary>
+   <br/>
+   <img alt="Jayvadolkar's Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jayvadolkar&bg_color=1F222E&color=68C3D4&line=568EA3&point=FFE8D1&hide_border=true" width="100%"/>
+</details>
+
+<details>
+   <summary>🕗 WakaTime </summary>
+   </br>
+   Total time coded since May 9 2022
+   </br> 
+   
+   <a href="https://wakatime.com/@76eff183-71c7-4ea1-b0ab-87b8199dbc0c"><img src="https://wakatime.com/badge/user/76eff183-71c7-4ea1-b0ab-87b8199dbc0c.svg?style=for-the-badge" alt="Total time coded since Sep 25 2022" /></a>
+   </br></br>
+
+   <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    224 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.1% 
+🌆 Daytime    619 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.96% 
+🌃 Evening    635 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.96% 
+🌙 Night      111 commits    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.99%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       215 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.53% 
+Tuesday      218 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.72% 
+Wednesday    232 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.6% 
+Thursday     229 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.41% 
+Friday       241 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.17% 
+Saturday     243 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.29% 
+Sunday       211 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.28%
+
+```
 
 
-## MY STATS!📊
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayvadolkar)
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       1 hr 49 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   94.22% 
+HTML                     6 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.78%
+
+💻 Operating System: 
+Linux                    1 hr 38 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   84.31% 
+Windows                  18 mins             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.69%
+
+```
+
+
+<!--END_SECTION:waka-->
+</details>
+
