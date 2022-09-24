@@ -22,9 +22,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ## MY STATS!📊
-[![Top Languages](https://github-readme-stats.vercel.app/api?username=jayvadolkar)]
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayvadolkar&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayvadolkar&langs_count=8&theme=radical)](https://github.com/jayvadolkar/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=jayvadolkar)](https://github.com/anuraghazra/github-readme-stats)
