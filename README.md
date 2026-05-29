@@ -32,50 +32,47 @@ What I actually care about is the gap between a messy real-world problem and the
 
 <details open>
 <summary><b>🛡️ Zoop.One — GenAI claim processing for insurers</b> &nbsp;<sub>(2026 → now)</sub></summary>
-
 <br/>
-
-**The problem.** Insurance claims were stuck in manual review — 5 days to approve, reviewers buried in documents, drop-off everywhere, and IRDAI compliance leaving no room for sloppiness.
-
-**The bet.** Don't replace the reviewer — *un-bury* them. Build an LLM + vision document-intelligence layer that reads, extracts, and triages every claim before a human ever looks at it, then design onboarding flows tight enough to survive regulation.
-
-**What happened.**
-- ⏱️ Approval TAT cut from **5 days → 12 hours** across **6,000+ claims/month**
-- 🤖 LLM + vision document-intelligence module **eliminated manual review**, with a **4% fraud-flag rate** catching what humans missed
-- 🚀 Designed the end-to-end **RO activation flow** — onboarding **10+ insurer regional offices** from credentialing to first live claim
-- 🎯 Built **segment-specific onboarding** across 4 insurer types to cut funnel drop-off, all **within IRDAI compliance**
-
+<p><b>The problem.</b> Insurance claims were stuck in manual review — five days to approve, reviewers buried in documents, drop-off everywhere, and IRDAI compliance leaving no room for error.</p>
+<p><b>The bet.</b> Don't replace the reviewer — <i>un-bury</i> them. Build an LLM + vision document-intelligence layer that reads, extracts, and triages every claim before a human looks at it, then design onboarding tight enough to survive regulation.</p>
+<b>What happened</b>
+<ul>
+<li>⏱️ Approval TAT cut from <b>5 days → 12 hours</b> across <b>6,000+ claims/month</b></li>
+<li>🤖 LLM + vision document-intelligence module <b>eliminated manual review</b>, with a <b>4% fraud-flag rate</b> catching what humans missed</li>
+<li>🚀 Designed the end-to-end <b>RO activation flow</b> — onboarding <b>10+ insurer regional offices</b> from credentialing to first live claim</li>
+<li>🎯 Built <b>segment-specific onboarding</b> across 4 insurer types to cut funnel drop-off, all <b>within IRDAI compliance</b></li>
+</ul>
 </details>
 
 <details>
 <summary><b>🧩 Keka — self-serve developer portal & marketplace</b> &nbsp;<sub>(2023 → 2025)</sub></summary>
-
 <br/>
-
-**The problem.** Partners wanted to build on Keka, but integration took **60 days** of hand-holding. There was no self-serve path from "I have an API key" to "I'm live in the marketplace" — and PMs were drowning in support triage along the way.
-
-**The bet.** Turn a high-touch services motion into a **product**. Ship an App Builder + developer docs + marketplace that takes a partner from app creation → permission scoping → webhooks → sandbox → live listing without a human in the loop. Then point AI agents at the busywork.
-
-**What happened.**
-- 🤝 **20+ partners** taken from zero to live
-- ⚡ Partner integration time cut from **60 days → 15 days**
-- 💰 Drove **API–product parity from 35% → 75%**, fueling **40% growth** in API product revenue
-- 🛒 Launched the in-product **marketplace** — partner revenue **+20% MoM**, scaling partner + API-led MRR to **₹1 Cr**
-- 🧠 Built an **agentic ticket-triage system** (local LLMs + Claude API) that cut PM workload **30%**
-- 🔌 Shipped a [**Keka API MCP server**](https://github.com/jayvadolkar) so coding agents could integrate against Keka's APIs with baked-in flows
-
+<p><b>The problem.</b> Partners wanted to build on Keka, but integration took <b>60 days</b> of hand-holding. There was no self-serve path from "I have an API key" to "I'm live in the marketplace" — and PMs were drowning in support triage along the way.</p>
+<p><b>The bet.</b> Turn a high-touch services motion into a <b>product</b>. Ship an App Builder + developer docs + marketplace that takes a partner from app creation → permission scoping → webhooks → sandbox → live listing without a human in the loop. Then point AI agents at the busywork.</p>
+<b>What happened</b>
+<ul>
+<li>🤝 <b>20+ partners</b> taken from zero to live</li>
+<li>⚡ Partner integration time cut from <b>60 days → 15 days</b></li>
+<li>💰 Drove <b>API–product parity from 35% → 75%</b>, fueling <b>40% growth</b> in API product revenue</li>
+<li>🛒 Launched the in-product <b>marketplace</b> — partner revenue <b>+20% MoM</b>, scaling partner + API-led MRR to <b>₹1 Cr</b></li>
+<li>🧠 Built an <b>agentic ticket-triage system</b> (local LLMs + Claude API) that cut PM workload <b>30%</b></li>
+<li>🔌 Shipped a <a href="https://github.com/jayvadolkar"><b>Keka API MCP server</b></a> so coding agents could integrate against Keka's APIs with baked-in flows</li>
+</ul>
 <sub>App Builder · Developer Docs · Marketplace · OAuth 2.0 · 20+ webhook events with HMAC verification · sandbox + retry logs</sub>
-
+<br/><br/>
+📄 <a href="https://app.notion.com/p/jayvadolkar/Keka-App-Portal-Product-Work-36ea475bfe13804d9385f3b55e205b0d?source=copy_link"><b>Full case study →</b></a>
 </details>
 
-<details>
-<summary><b>🥩 Licious — a teardown: growing 1,000 Cr → 1,700 Cr</b> &nbsp;<sub>(self-driven)</sub></summary>
+---
 
-<br/>
+### 📚 Product teardowns & assignments
 
-A self-initiated growth teardown — where the next 700 Cr comes from, and the product bets I'd make to get there. <a href="https://community.growthx.club/@/jay_prabhu_vadolkar">Read it in my portfolio →</a>
+> Self-driven case studies — how I scope a problem, find the leverage, and design the bet.
 
-</details>
+- 🛒 **[BigBasket — onboarding redesign](https://app.notion.com/p/jayvadolkar/bigbasket-Onboarding-176ad647cf47400cb89577d48b520006?source=copy_link)** &nbsp;·&nbsp; rebuilding first-run onboarding for India's grocery leader
+- 🔖 **[Reddit — Saved Collections 2.0](https://app.notion.com/p/jayvadolkar/Reddit-Saved-Collections-2-0-251a475bfe13804e853ece921f62fa22?source=copy_link)** &nbsp;·&nbsp; fixing how users save, organize, and re-find what they keep
+- 📹 **[WhatsApp — video streaming feature](https://app.notion.com/p/jayvadolkar/WhatsApp-Video-Streaming-Feature-104a475bfe13800581c1c4918b44ff43?source=copy_link)** &nbsp;·&nbsp; a 0→1 proposal for in-app video streaming
+- 🥩 **[Licious 2.0 — growth strategy](https://app.notion.com/p/growthxclub/Licious-2-0-a6a66dd7dd644854b22882274ec41170?source=copy_link)** &nbsp;·&nbsp; the playbook to scale ₹1,000 Cr → ₹1,700 Cr
 
 ---
 
@@ -90,14 +87,14 @@ A self-initiated growth teardown — where the next 700 Cr comes from, and the p
 
 ### 💼 Experience
 
-| Role | Where | When |
-|---|---|---|
-| **Product Manager** — GenAI claims, InsureTech | Zoop.One | Jan 2026 → Present |
-| **Product (AI & Marketplace Integrations)** — APM → Platform | Keka HR | May 2023 → Nov 2025 |
-| **Product Analyst** — D2C growth & retention | Manzuri | Oct 2022 → May 2023 |
-| **GrowthX Fellow** (GX14) | GrowthX® | Mar 2023 → Present |
+**Keka HR** &nbsp;·&nbsp; Product — AI & Marketplace Integrations &nbsp;·&nbsp; *May 2023 – Nov 2025*
+<br/>Grew from Product Analyst to APM on the platform team — built the developer portal, marketplace, and agentic tooling above.
 
-<sub>At Manzuri: drove D2C strategy (+30% engagement), launched features (+12% MoM revenue), redesigned UX (+27% CSAT), cut churn 30%.</sub>
+**Manzuri** &nbsp;·&nbsp; Product Analyst &nbsp;·&nbsp; *Oct 2022 – May 2023*
+<br/>Owned D2C growth for a stigmatized category: **+30%** engagement, **+12% MoM** revenue, **+27%** CSAT, **−30%** churn.
+
+**GrowthX®** &nbsp;·&nbsp; Fellow, GX14 &nbsp;·&nbsp; *Mar 2023 – Present*
+<br/>Product & Growth program — graduated with a top-5 team.
 
 ---
 
