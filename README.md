@@ -1,82 +1,144 @@
-### Hi 👋, I’m 
-<h3 align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Jay+Prabhu+Vadolkar;Developer+%7C+educator" alt="Typing SVG" /></a>
- </h3>
+<h1 align="center">Hey, I'm Jay 👋</h1>
 
-<h3>🔎 About me :</h3>
+<h3 align="center">
+  <a href="https://www.linkedin.com/in/jayvadolkar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=560&center=true&lines=AI-Native+Product+Manager;0+to+1+products+%7C+GenAI+%2B+Platform;I+execute+like+an+engineer%2C+think+like+a+PM" alt="Typing SVG" />
+  </a>
+</h3>
 
-- 🏫 I'm currently studying in Vellore Institute of Technology
-- 🌱 I'm currently learning **Flutter & dart, AIM & ML**
-- 💬 Ask me about **[My Youtube Channel](https://www/youtube.com/c/jayvadolkar)**
-- ❤️ I love Chichen Biryani and Beaches🏖️
-- ⚡ Fun Fact: Recent studies show that around 70% of coding jobs have nothing to do with technology at all.
-
-<h3>✉️  Connect with Me</h3>
-<p>
- <a href="https://t.me/jayvadolkar69" ><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" alt="jayvadolkar69" height="40" width="40"/></a>
- <a href="https://www.linkedin.com/in/jayvadolkar" ><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="hud0shnik" height="40" width="40"/></a> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayvadolkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://community.growthx.club/@/jay_prabhu_vadolkar"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:jayvadolkar1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<p align="center"><sub>📍 Bengaluru, India · Product @ Zoop.One · Ex-Keka, Manzuri · GrowthX Fellow (GX14)</sub></p>
 
-<h3>🛠 Languages and Tools :</h3>
+---
+
+### The short version
+
+I'm a Product Manager with **3+ years building AI-first products** across InsureTech and HRTech. I started out writing code, and I never fully put it down — I still spec, prototype, and ship alongside engineering. That's the lens I bring: **I'd rather build the thin slice and watch a real user touch it than argue about it in a doc.**
+
+What I actually care about is the gap between a messy real-world problem and the smallest product that closes it. Lately that gap is full of LLMs, agents, and APIs — which is exactly where I like to be.
+
+> **Right now:** building GenAI claim processing at **Zoop.One** — taking insurance claim approvals from *5 days down to 12 hours* across 6,000+ claims a month.
+
+---
+
+### 🧪 Selected work
+
+> Each one is a problem I owned end to end — here's the bet I made and what happened.
+
+<details open>
+<summary><b>🛡️ Zoop.One — GenAI claim processing for insurers</b> &nbsp;<sub>(2026 → now)</sub></summary>
+
+<br/>
+
+**The problem.** Insurance claims were stuck in manual review — 5 days to approve, reviewers buried in documents, drop-off everywhere, and IRDAI compliance leaving no room for sloppiness.
+
+**The bet.** Don't replace the reviewer — *un-bury* them. Build an LLM + vision document-intelligence layer that reads, extracts, and triages every claim before a human ever looks at it, then design onboarding flows tight enough to survive regulation.
+
+**What happened.**
+- ⏱️ Approval TAT cut from **5 days → 12 hours** across **6,000+ claims/month**
+- 🤖 LLM + vision document-intelligence module **eliminated manual review**, with a **4% fraud-flag rate** catching what humans missed
+- 🚀 Designed the end-to-end **RO activation flow** — onboarding **10+ insurer regional offices** from credentialing to first live claim
+- 🎯 Built **segment-specific onboarding** across 4 insurer types to cut funnel drop-off, all **within IRDAI compliance**
+
+</details>
+
+<details>
+<summary><b>🧩 Keka — self-serve developer portal & marketplace</b> &nbsp;<sub>(2023 → 2025)</sub></summary>
+
+<br/>
+
+**The problem.** Partners wanted to build on Keka, but integration took **60 days** of hand-holding. There was no self-serve path from "I have an API key" to "I'm live in the marketplace" — and PMs were drowning in support triage along the way.
+
+**The bet.** Turn a high-touch services motion into a **product**. Ship an App Builder + developer docs + marketplace that takes a partner from app creation → permission scoping → webhooks → sandbox → live listing without a human in the loop. Then point AI agents at the busywork.
+
+**What happened.**
+- 🤝 **20+ partners** taken from zero to live
+- ⚡ Partner integration time cut from **60 days → 15 days**
+- 💰 Drove **API–product parity from 35% → 75%**, fueling **40% growth** in API product revenue
+- 🛒 Launched the in-product **marketplace** — partner revenue **+20% MoM**, scaling partner + API-led MRR to **₹1 Cr**
+- 🧠 Built an **agentic ticket-triage system** (local LLMs + Claude API) that cut PM workload **30%**
+- 🔌 Shipped a [**Keka API MCP server**](https://github.com/jayvadolkar) so coding agents could integrate against Keka's APIs with baked-in flows
+
+<sub>App Builder · Developer Docs · Marketplace · OAuth 2.0 · 20+ webhook events with HMAC verification · sandbox + retry logs</sub>
+
+</details>
+
+<details>
+<summary><b>🥩 Licious — a teardown: growing 1,000 Cr → 1,700 Cr</b> &nbsp;<sub>(self-driven)</sub></summary>
+
+<br/>
+
+A self-initiated growth teardown — where the next 700 Cr comes from, and the product bets I'd make to get there. <a href="https://community.growthx.club/@/jay_prabhu_vadolkar">Read it in my portfolio →</a>
+
+</details>
+
+---
+
+### 🧭 How I think about product
+
+- **Outcomes over output.** A shipped feature that doesn't move a number is just code I have to maintain.
+- **The roadmap is a hypothesis.** It stays one until a real user proves it. So I talk to users early and often.
+- **Build the thin slice.** Prototyping *is* the argument — I'd rather show than debate.
+- **AI is a means, not the pitch.** I reach for LLMs and agents when they collapse a workflow, not because they're on the slide.
+
+---
+
+### 💼 Experience
+
+| Role | Where | When |
+|---|---|---|
+| **Product Manager** — GenAI claims, InsureTech | Zoop.One | Jan 2026 → Present |
+| **Product (AI & Marketplace Integrations)** — APM → Platform | Keka HR | May 2023 → Nov 2025 |
+| **Product Analyst** — D2C growth & retention | Manzuri | Oct 2022 → May 2023 |
+| **GrowthX Fellow** (GX14) | GrowthX® | Mar 2023 → Present |
+
+<sub>At Manzuri: drove D2C strategy (+30% engagement), launched features (+12% MoM revenue), redesigned UX (+27% CSAT), cut churn 30%.</sub>
+
+---
+
+### 🛠 Toolkit
+
+**AI & ML** &nbsp;·&nbsp; MCP (Model Context Protocol) · LLMs (GPT, Claude, OpenAI, LangChain) · AI Agents · RAG · Fine-tuning · Prompt Engineering · n8n · Lovable · bolt.new
+
+**Product** &nbsp;·&nbsp; Onboarding & Activation · Funnel Optimization · Developer Portals · API Ecosystems · A/B Testing · PRD Writing · Roadmap Management · Customer Discovery
+
+**Technical & Analytical** &nbsp;·&nbsp; Python · SQL · Power BI · JIRA · Postman · Azure DevOps · Confluence · Mixpanel · Pendo · API Integrations
+
 <p>
-  <!-- VS Code-->
-  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/>
-    
-  <!-- Flutter -->
-  <img src="https://img.icons8.com/fluency/344/flutter.png"  alt="Flutter" width="40" height="40"/>
-    
-  <!-- Dart-->
-  <img src="https://img.icons8.com/color/344/dart.png" alt="Dart" width="40" height="40"/>
-   
-  <!-- Android Studio-->
-  <img src="https://img.icons8.com/color/344/android-studio--v2.png" alt="Android Studio" width="40" height="40"/>
-    
-  <!-- python -->
-  <img src="https://img.icons8.com/color/344/python--v1.png" alt="Python" width="40" height="40"/>
-  
-  <!--Git-->
-  <img src="https://img.icons8.com/color/344/git.png" alt="Git" width="40" height="40"/>
-    
-  <!--html-->
-  <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML5" width="40" height="40"/>
-    
-  <!--css-->
-  <img src="https://img.icons8.com/color/344/css3.png" alt="CSS3" width="40" height="40"/>
-    
-  <img src="https://img.icons8.com/color/344/google-ads.png" alt="google_ads" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=flat&logo=mixpanel&logoColor=white" alt="Mixpanel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
+---
 
+### 🎓 Education & honors
 
-<img alt="Jayvadolkar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayvadolkar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866" height="250px"/><br>
+- **B.Tech, Computer Science** (Gaming Tech) — Vellore Institute of Technology · 2019–2023
+- **Product & Growth Program** (Top 5 Team) — GrowthX® · 2023
+- 🏆 **Economic Times Campus Star**
 
+---
 
-<h3>🔥 Statistics :</h3>
-<img alt="Jayvadolkar's streak" src="http://github-readme-streak-stats.herokuapp.com?user=jayvadolkar&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
-<img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=jayvadolkar&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/>
-<img alt="Jayvadolkar's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jayvadolkar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
+### ✉️ Let's build something
 
-   <h3>🕗 WakaTime </h3>
-   
-   Total time coded since May 9 2022
-   </br> 
-   
-   <a href="https://wakatime.com/@76eff183-71c7-4ea1-b0ab-87b8199dbc0c"><img src="https://wakatime.com/badge/user/76eff183-71c7-4ea1-b0ab-87b8199dbc0c.svg?style=for-the-badge" alt="Total time coded since Sep 25 2022" /></a><br>
-   ![Jay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jayvadolkar&show_icons=true&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&layout=compact)
-   
+I'm always up for a conversation about AI products, developer platforms, or a good 0→1 problem.
 
+<p>
+  <a href="https://www.linkedin.com/in/jayvadolkar"><img align="center" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn" height="38" width="38"/></a>
+  <a href="https://community.growthx.club/@/jay_prabhu_vadolkar"><img align="center" src="https://img.icons8.com/color/48/document--v1.png" alt="Portfolio" height="38" width="38"/></a>
+  <a href="mailto:jayvadolkar1@gmail.com"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="38" width="38"/></a>
+</p>
 
-<details>
-   <summary> 📈 Contribution Graph </summary>
-   <br/>
-   <img alt="Jayvadolkar's Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jayvadolkar&bg_color=1F222E&color=68C3D4&line=568EA3&point=FFE8D1&hide_border=true" width="100%"/>
-</details>
-
-
-
-<details>
-   <summary> 🦾 Profile-3d-contrib </summary>
-   <br/>
-   <img alt="Jayvadolkar's Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</details>
-
+<sub>Interests: Product Strategy · Onboarding · Data-Driven Growth · Risk & Compliance · Behavioral Analytics · AI in Product · FinTech & RegTech</sub>
